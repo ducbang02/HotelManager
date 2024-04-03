@@ -26,18 +26,8 @@ namespace HotelManager.DAO
         public string GetCurrentIDBookRoom(DateTime dateTime, string idbookroom)
         {
             string query = "USP_LoadBookRoomsByDateID @date , @idbookroom";
-              try
-            {
-                DataRow dataRow = DataProvider.Instance.ExecuteQuery(query, new object[] { dateTime, idbookroom }).Rows[0];
-                idbookroom = (string)dataRow["Mã đặt phòng"];
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("Bạn chưa chọn phòng");
-                //viết code ở đây để gọi lại hàm GetCurrentIDBookRoom
-            }
-            return idbookroom;
-
+            DataRow dataRow= DataProvider.Instance.ExecuteQuery(query, new object[] { dateTime , idbookroom}).Rows[0];
+            return (string)dataRow["Mã đặt phòng"];
         }
         public bool IsIDBookRoomExists(string idBookRoom)
         {

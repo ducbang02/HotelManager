@@ -18,7 +18,7 @@ namespace DAO
 
         private void getConnectData()
         {
-            getConnect = new SqlConnection("Data Source=localhost;Initial Catalog=HotelManagement;User ID=sa;Password=12");
+            getConnect = new SqlConnection("Data Source=DESKTOP-GEP1IUG;Initial Catalog=QLKS;Integrated Security=True");
             getConnect.Open();
 
         }

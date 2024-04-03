@@ -1,0 +1,18 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DAO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DAO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DTO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.pdb
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\bin\Debug\DAO.dll
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\bin\Debug\DAO.pdb
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\bin\Debug\DTO.dll
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\bin\Debug\DTO.pdb
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\obj\Debug\DAO.dll
+D:\LearnSpace\SE104-CNPM\SouceCode2\HotelManager\DAO\obj\Debug\DAO.pdb
